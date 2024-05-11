@@ -10,6 +10,7 @@
   "description": "deletad erorr",
   "devDependencies": {
     "gulp": "^5.0.0",
+    "gulp-autoprefixer": "^9.0.0",
     "gulp-cli": "^3.0.0",
     "gulp-sass": "^5.1.0"
   }
