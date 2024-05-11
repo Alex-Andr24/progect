@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "deletad erorr",
   "devDependencies": {
-    "gulp": "^5.0.0"
+    "gulp": "^5.0.0",
+    "gulp-cli": "^3.0.0"
   }
 }
